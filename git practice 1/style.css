@@ -18,3 +18,12 @@ img {
     margin: 15px;
     border-radius: 12px;
 }
+p {
+    color: #555555;
+    font-size: 18px;
+}
+
+img:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
