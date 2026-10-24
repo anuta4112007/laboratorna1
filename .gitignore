@@ -1,0 +1,15 @@
+*.log
+*.tmp
+*.bak
+*.cache
+*.swp
+*.swo
+*.old
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+node_modules/
+temp/
+build/
